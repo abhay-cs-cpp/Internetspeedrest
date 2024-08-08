@@ -1,2 +1,2 @@
-# Internetspeedrest
+# Internetspeedtest
 Internet speed test python
